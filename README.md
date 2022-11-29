@@ -1,4 +1,4 @@
-# Newsapp-React
+# News-HUB-React
 # Output
 ### General News
 <img width="945" alt="general" src="https://user-images.githubusercontent.com/83641122/204634854-19614a72-b9ce-4c06-a930-ab2e763a5b32.png">
